@@ -49,3 +49,10 @@ Este sistema foi desenvolvido com o objetivo de **otimizar o controle de produto
 - Funcionários autenticados possuem acesso completo às funcionalidades de gestão.
 
 ---
+
+## Divisão de Tarefas
+
+- Isaque: Banco De Dados
+- Gabriel: Programação
+- Thiago: Documentação
+- Thomaz: Design
