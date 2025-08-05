@@ -14,7 +14,6 @@ Este sistema foi desenvolvido com o objetivo de **otimizar o controle de produto
 ### Funcionário
 - Acesso mediante login com autenticação segura.
 - Realiza operações de **CRUD** (Criar, Ler, Atualizar e Deletar) sobre os produtos.
-- Gera relatórios e consulta histórico de movimentações (funcionalidade opcional).
 
 ---
 
@@ -30,7 +29,6 @@ Este sistema foi desenvolvido com o objetivo de **otimizar o controle de produto
 - Cadastro de novos produtos.
 - Edição de informações de produtos existentes.
 - Exclusão de produtos do estoque.
-- Geração de relatórios e visualização de histórico de movimentações (opcional).
 
 ---
 
