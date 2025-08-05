@@ -11,7 +11,7 @@ Este sistema tem como objetivo facilitar o controle de produtos de uma cantina e
 
 ---
 
-## ✅ Funcionalidades
+## ⚙️ Requisitos Não Funcionais
 
 ### Aluno
 - Visualização da lista de produtos.
