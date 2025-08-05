@@ -50,7 +50,7 @@ Este sistema foi desenvolvido com o objetivo de **otimizar o controle de produto
 
 ---
 
-## Divisão de Tarefas
+## 🔨 Divisão de Tarefas
 
 - Isaque: Banco De Dados
 - Gabriel: Programação
