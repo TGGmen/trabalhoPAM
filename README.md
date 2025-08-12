@@ -1,4 +1,4 @@
-# 📦 Sistema de Gerenciamento de Estoque da Cantina Escolar
+# 📦 Sistema de Gerenciamento de Estoque da Cantina Escolar (Gulosa)
 
 Este sistema foi desenvolvido com o objetivo de **otimizar o controle de produtos da cantina escolar**, proporcionando uma melhor organização interna e uma experiência mais transparente e eficiente para alunos e funcionários.
 
