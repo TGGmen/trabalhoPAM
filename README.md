@@ -9,7 +9,7 @@ Este sistema foi desenvolvido com o objetivo de **otimizar o controle de produto
 ### Aluno
 - Visualiza os produtos disponíveis no estoque da cantina.
 - Realiza buscas e utiliza filtros para encontrar itens específicos.
-- Consulta quantidades disponíveis dos produtos.
+- Consulta quantidades disponíveis dos produtos e sua descrição.
 
 ### Funcionário
 - Acesso mediante login com autenticação segura.
