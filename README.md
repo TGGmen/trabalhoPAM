@@ -17,7 +17,7 @@ Este sistema foi desenvolvido com o objetivo de **otimizar o controle de produto
 
 ---
 
-## ✅ Funcionalidades
+## ✅ Requisitos Funcionais
 
 ### Para Alunos
 - Visualização da lista de produtos disponíveis.
