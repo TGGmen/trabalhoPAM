@@ -34,7 +34,7 @@ Este sistema foi desenvolvido com o objetivo de **otimizar o controle de produto
 
 ## 📐 Requisitos Não Funcionais
 
-- Interface intuitiva, amigável e responsiva (compatível com celulares androids 7.0).
+- Interface intuitiva, amigável e responsiva (compatível com celulares androids 7.0 ou mais atuais).
 - Controle de acesso seguro por meio de autenticação por perfil.
 - Alto desempenho e rapidez, mesmo com grande volume de dados.
 - Disponibilidade garantida durante o horário de funcionamento da cantina.
